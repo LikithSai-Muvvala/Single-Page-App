@@ -1,0 +1,18 @@
+.nav.navbar-nav {
+  background: #3292a6;
+  /* box-shadow: 2px 2px 2px #3292a6; */
+  /* color: white; */
+  margin-right: 2rem;
+}
+
+section {
+  margin-top: 1rem;
+}
+
+bg-primary-default {
+  color: #3292a6 !important;
+}
+
+.navbar-nav > li{
+  margin-right:30px;
+}
